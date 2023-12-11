@@ -58,7 +58,7 @@ const GateDetails = () => {
                 console.warn("Data Added");
             }
         } catch (error) {
-            console.error("Error:", error);
+            console.error("Error:", error)
         }
     };
     
